@@ -14,11 +14,11 @@ global.config = {
 	subAddressPrefixTestnet: 73,
 	defaultMixin: 12, // default value mixin
 
-	coinSymbol: 'MSR',
-	openAliasPrefix: "msr",
-	coinName: 'Masari',
-	coinUriPrefix: 'masari:',
-	avgBlockTime: 60,
+	coinSymbol: 'BLOC',
+	openAliasPrefix: "bloc",
+	coinName: 'BLOC',
+	coinUriPrefix: 'bloc:',
+	avgBlockTime: 120,
 	maxBlockNumber: 500000000,
 	coinSupply: 18500000
 };
